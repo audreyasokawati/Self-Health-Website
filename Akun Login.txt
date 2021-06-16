@@ -1,0 +1,6 @@
+username:user
+password:user
+
+Untuk admin silahkan register dengan
+username:admin
+password:admin
